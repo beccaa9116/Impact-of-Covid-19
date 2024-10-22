@@ -1,6 +1,6 @@
 # Impact of Covid-19
 
-Currently working on this... 👩🏼‍💻📊
+Currently work in progress... 👩🏼‍💻📊
 
 
 Dataset source: https://www.kaggle.com/datasets/gcreatives/impact-of-covid-19-on-working-professionals/data
